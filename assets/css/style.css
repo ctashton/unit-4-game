@@ -1,0 +1,54 @@
+body {
+    background-image: url("../images/wheat.png");
+}
+h1 {
+    font-size: 36px;
+}
+
+span {
+    font-size: 30px
+}
+#titleText {
+    color: white;
+    background-color:rosybrown;
+    padding: 20px 5px 20px 5px;
+    margin: 5px;
+    text-align: center;
+}
+
+#directions {
+    background-color: bisque;
+    color: green;
+    padding: 20px;
+    text-align: center;
+    margin: 5px;
+}
+
+#answerText{
+    background-color: lightseagreen;
+    color: purple;
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+}
+
+#scoreKeeper {
+    background-color: turquoise;
+    margin: 5px;
+    padding: 20px;
+    text-align: center;
+}
+
+.crystal-image {
+    width: 100px;
+    margin: 5px;
+}
+
+#userPoints {
+    background-color: teal;
+    color: white;
+    margin: 5px;
+    text-align: center;
+}
+
+
